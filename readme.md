@@ -4,7 +4,12 @@
 
 ## Overview
 
-We are delighted to invite you to participate in an exclusive Microsoft event: Azure Functions, Event Grid, and Logic Apps Serverless Ninjas Workshop
+We are delighted to invite you to participate in an exclusive Microsoft Hackfest for Serverless technologies on Azure.
+
+The technologies we will cover are:
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+* [Event Grid](https://azure.microsoft.com/en-us/services/event-grid/)
+* [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
 
 Developers are looking to leverage the new paradigm of serverless architectures: scalable and reliable event based compute experience for code and workflows, which accelerate the development of applications while simplifying the infrastructure, providing auto-scale and micro-billing, using technologies like Functions, Event Grid and Logic Apps
 
