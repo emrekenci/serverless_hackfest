@@ -1,4 +1,4 @@
-# Azure Serverless Ninjas Workshop
+# Azure Serverless Hackfest
 
 ![Azure Serverless Workshop](workshop.png "Azure Serverless Workshop")
 
@@ -10,27 +10,32 @@ Developers are looking to leverage the new paradigm of serverless architectures:
 
 Because of the hands-on nature of the event there is limited space in the Serverless-palooza; register to reserve your spot.
 
-## Target Audience
+## Readiness
 
-- This event is for technical roles however anyone interested in learning more about Azure and Serverless functionality is welcome to attend.
-- Especially beneficial to those that work with organizations who are planning to build Serverless architectures on the cloud or organizations planning to automate business processes.
+You must have access to either an Azure Subscription or Resource Group that you are either an Account Admin, Owner or Contributor.
 
-## Requirements
+You must have visual studio 2017 installed and upddated with Azure development workload.
 
-You must have access to either an Azure Subscription or Resource Group that you are either an Owner or Contributor role.
+Please see [this document](https://github.com/emrekenci/serverless_hackfest/blob/master/CSE%20Hackfest%20Preparation.docx) for a detailed readiness guide.
 
 ## Agenda
 
+### Day 1
+
 | From     | To       | Session                                     |
 |----------|----------|---------------------------------------------|
-| 8:30 AM  | 9:00 AM  | Check-in                                    |
-| 9:00 AM  | 9:15 AM  | Intros and Overview                         |
-| 9:15 AM  | 9:45 AM  | Azure Functions Overview                    |
-| 9:45 AM  | 10:00 AM | Event Grid Overview                         |
-| 10:00 AM | 10:15 AM | Break                                       |
-| 10:15 AM | 11:15 AM | Functions and Event Grid Instructor-Led Lab |
-| 11:15 AM | 11:45 AM | Azure Logic Apps Overview                   |
-| 11:45 AM | 12:45 PM | Break                                       |
-| 12:45 PM | 1:45 PM  | Azure Logic Instructor-Led Lab              |
-| 1:45 PM  | 3:30 PM  | Group Code Challenge                        |
-| 3:30 PM  | 3:30 PM  | Wrap Up                                     |
+| 9:30     | 10:45    | Azure Functions Presentation & Demo         |
+| 11:00    | 11:15    | Break                                       |
+| 11:15    | 12:30    | Event Grid Presentation & Demo              |
+| 12:30    | 13:30    | Lunch Break                                 |
+| 13:30    | 14:45    | Logic Apps Presentation & Demo              |
+| 14:45    | 15:00    | Break                                       |
+| 15:00    | 17:00    | Scenario selection & hacking                |
+
+### Day 2
+
+| From     | To       | Session                                     |
+|----------|----------|---------------------------------------------|
+| 9:30     | 12:30    | Hacking                                     |
+| 12:30    | 13:30    | Lunch Break                                 |
+| 13:30    | 17:00    | Hacking                                     |
