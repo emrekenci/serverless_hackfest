@@ -11,9 +11,9 @@ The technologies we will cover are:
 * [Event Grid](https://azure.microsoft.com/en-us/services/event-grid/)
 * [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
 
-Developers are looking to leverage the new paradigm of serverless architectures: scalable and reliable event based compute experience for code and workflows, which accelerate the development of applications while simplifying the infrastructure, providing auto-scale and micro-billing, using technologies like Functions, Event Grid and Logic Apps
+Developers are looking to leverage the new paradigm of serverless architectures: scalable and reliable event based compute experience for code and workflows, which accelerate the development of applications while simplifying the infrastructure, providing auto-scale and micro-billing.
 
-Because of the hands-on nature of the event there is limited space in the Serverless-palooza; register to reserve your spot.
+During this event, you will have a chance to work on these cutting edge technologies **hands on with Microsoft engineers**.
 
 ## Readiness
 
