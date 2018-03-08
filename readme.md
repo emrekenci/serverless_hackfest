@@ -1,36 +1,46 @@
-# Azure Serverless Ninjas Workshop
+# Azure Serverless Hackfest
 
 ![Azure Serverless Workshop](workshop.png "Azure Serverless Workshop")
 
 ## Overview
 
-We are delighted to invite you to participate in an exclusive Microsoft event: Azure Functions, Event Grid, and Logic Apps Serverless Ninjas Workshop
+We are delighted to invite you to participate in an exclusive Microsoft Hackfest for Serverless technologies on Azure.
 
-Developers are looking to leverage the new paradigm of serverless architectures: scalable and reliable event based compute experience for code and workflows, which accelerate the development of applications while simplifying the infrastructure, providing auto-scale and micro-billing, using technologies like Functions, Event Grid and Logic Apps
+The technologies we will cover are:
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions/)
+* [Event Grid](https://azure.microsoft.com/en-us/services/event-grid/)
+* [Logic Apps](https://azure.microsoft.com/en-us/services/logic-apps/)
 
-Because of the hands-on nature of the event there is limited space in the Serverless-palooza; register to reserve your spot.
+Developers are looking to leverage the new paradigm of serverless architectures: scalable and reliable event based compute experience for code and workflows, which accelerate the development of applications while simplifying the infrastructure, providing auto-scale and micro-billing.
 
-## Target Audience
+During this event, you will have a chance to work on these cutting edge technologies **hands on with Microsoft engineers**.
 
-- This event is for technical roles however anyone interested in learning more about Azure and Serverless functionality is welcome to attend.
-- Especially beneficial to those that work with organizations who are planning to build Serverless architectures on the cloud or organizations planning to automate business processes.
+## Readiness
 
-## Requirements
+You must have access to either an Azure Subscription or Resource Group that you are either an Account Admin, Owner or Contributor.
 
-You must have access to either an Azure Subscription or Resource Group that you are either an Owner or Contributor role.
+You must have visual studio 2017 installed and upddated with Azure development workload.
+
+Please see [this document](https://github.com/emrekenci/serverless_hackfest/blob/master/CSE%20Hackfest%20Preparation.docx) for a detailed readiness guide.
 
 ## Agenda
 
+### Day 1
+
 | From     | To       | Session                                     |
 |----------|----------|---------------------------------------------|
-| 8:30 AM  | 9:00 AM  | Check-in                                    |
-| 9:00 AM  | 9:15 AM  | Intros and Overview                         |
-| 9:15 AM  | 9:45 AM  | Azure Functions Overview                    |
-| 9:45 AM  | 10:00 AM | Event Grid Overview                         |
-| 10:00 AM | 10:15 AM | Break                                       |
-| 10:15 AM | 11:15 AM | Functions and Event Grid Instructor-Led Lab |
-| 11:15 AM | 11:45 AM | Azure Logic Apps Overview                   |
-| 11:45 AM | 12:45 PM | Break                                       |
-| 12:45 PM | 1:45 PM  | Azure Logic Instructor-Led Lab              |
-| 1:45 PM  | 3:30 PM  | Group Code Challenge                        |
-| 3:30 PM  | 3:30 PM  | Wrap Up                                     |
+| 9:30     | 10:45    | Azure Functions Presentation & Demo         |
+| 11:00    | 11:15    | Break                                       |
+| 11:15    | 12:30    | Event Grid Presentation & Demo              |
+| 12:30    | 13:30    | Lunch Break                                 |
+| 13:30    | 14:45    | Logic Apps Presentation & Demo              |
+| 14:45    | 15:00    | Break                                       |
+| 15:00    | 17:00    | Scenario selection & hacking                |
+
+### Day 2
+
+| From     | To       | Session                                     |
+|----------|----------|---------------------------------------------|
+| 9:30     | 12:30    | Hacking                                     |
+| 12:30    | 13:30    | Lunch Break                                 |
+| 13:30    | 17:00    | Hacking                                     |
