@@ -29,7 +29,7 @@ Please see [this document](https://github.com/emrekenci/serverless_hackfest/blob
 
 | From     | To       | Session                                     |
 |----------|----------|---------------------------------------------|
-| 9:30     | 10:45    | Azure Functions Presentation & Demo         |
+| 9:00     | 10:45    | Azure Functions Presentation & Demo         |
 | 11:00    | 11:15    | Break                                       |
 | 11:15    | 12:30    | Event Grid Presentation & Demo              |
 | 12:30    | 13:30    | Lunch Break                                 |
@@ -41,9 +41,10 @@ Please see [this document](https://github.com/emrekenci/serverless_hackfest/blob
 
 | From     | To       | Session                                     |
 |----------|----------|---------------------------------------------|
-| 9:30     | 12:30    | Hacking                                     |
+| 9:00     | 12:30    | Hacking                                     |
 | 12:30    | 13:30    | Lunch Break                                 |
-| 13:30    | 17:00    | Hacking                                     |
+| 13:30    | 16:00    | Hacking                                     |
+| 16:00    | 17:00    | Optional experience sharing session         |
 
 ## Addtional labs, guides, tutorials
 
