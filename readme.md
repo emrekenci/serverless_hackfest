@@ -44,3 +44,7 @@ Please see [this document](https://github.com/emrekenci/serverless_hackfest/blob
 | 9:30     | 12:30    | Hacking                                     |
 | 12:30    | 13:30    | Lunch Break                                 |
 | 13:30    | 17:00    | Hacking                                     |
+
+## Addtional labs, guides, tutorials
+
+If you prefer, you can also follow this hands-on tutorial to [create an Azure Function that integrates with Azure Logic Apps](https://docs.microsoft.com/en-us/azure/azure-functions/functions-twitter-email). This tutorial shows you how to use Functions with Logic Apps and Microsoft Cognitive Services on Azure to analyze sentiment from Twitter posts.
